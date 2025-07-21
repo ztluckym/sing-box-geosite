@@ -2,6 +2,7 @@
   "rules": [
     {
       "domain": [
+        "7h1s_rul35et_i5_mad3_by_5ukk4w-ruleset.skk.moe",
         "aterm.me",
         "console.gl-inet.com",
         "homerouter.cpe",
@@ -12,7 +13,6 @@
         "repeater.asus.com",
         "router.asus.com",
         "setmeup.arubanetworks.com",
-        "th1s_rule5et_1s_m4d3_by_5ukk4w_ruleset.skk.moe",
         "unifi"
       ]
     },
